@@ -2,7 +2,7 @@
   "name": "edn-formatter",
   "version": "1.0.0",
   "description": "Formats EDN string into prettified, multi-line version",
-  "main": "edn_formatter.js",
+  "main": "dist/edn-formatter.js",
   "scripts": {
     "build": "lumo --classpath src build.cljs"
   },
