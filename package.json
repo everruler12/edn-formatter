@@ -10,8 +10,5 @@
     "type": "git",
     "url": "https://github.com/everruler12/edn-formatter.git"
   },
-  "author": "everruler12",
-  "dependencies": {
-    "lumo": "^0.20.17"
-  }
+  "author": "everruler12"
 }
